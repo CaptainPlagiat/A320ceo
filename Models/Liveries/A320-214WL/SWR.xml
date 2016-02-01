@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>SWISS International Air Lines</name>
+				<neo-texture>Liveries/A320-214WL/A320neo-SWR.png</neo-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ 
+<PropertyList>
+		<sim>
+				<model>
+						<livery>
+								<name>Agean Airlines (Star Alliance)</name>
+								<neo-texture>Liveries/A320-232/A320-AEE-SA.png</neo-texture>
+						</livery>
+				</model>
+		</sim>
+</PropertyList>
